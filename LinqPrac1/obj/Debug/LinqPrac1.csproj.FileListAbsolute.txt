@@ -1,0 +1,20 @@
+C:\Users\alyssa.byun\source\repos\LinqPrac1\LinqPrac1\bin\Debug\LinqPrac1.exe.config
+C:\Users\alyssa.byun\source\repos\LinqPrac1\LinqPrac1\bin\Debug\LinqPrac1.exe
+C:\Users\alyssa.byun\source\repos\LinqPrac1\LinqPrac1\bin\Debug\LinqPrac1.pdb
+C:\Users\alyssa.byun\source\repos\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.csprojAssemblyReference.cache
+C:\Users\alyssa.byun\source\repos\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.Form1.resources
+C:\Users\alyssa.byun\source\repos\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.Properties.Resources.resources
+C:\Users\alyssa.byun\source\repos\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.csproj.GenerateResource.cache
+C:\Users\alyssa.byun\source\repos\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.csproj.CoreCompileInputs.cache
+C:\Users\alyssa.byun\source\repos\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.exe
+C:\Users\alyssa.byun\source\repos\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.pdb
+C:\Users\Yoonkun Lee\Desktop\LinqPrac1\LinqPrac1\bin\Debug\LinqPrac1.exe.config
+C:\Users\Yoonkun Lee\Desktop\LinqPrac1\LinqPrac1\bin\Debug\LinqPrac1.exe
+C:\Users\Yoonkun Lee\Desktop\LinqPrac1\LinqPrac1\bin\Debug\LinqPrac1.pdb
+C:\Users\Yoonkun Lee\Desktop\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.csprojAssemblyReference.cache
+C:\Users\Yoonkun Lee\Desktop\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.Form1.resources
+C:\Users\Yoonkun Lee\Desktop\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.Properties.Resources.resources
+C:\Users\Yoonkun Lee\Desktop\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.csproj.GenerateResource.cache
+C:\Users\Yoonkun Lee\Desktop\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.csproj.CoreCompileInputs.cache
+C:\Users\Yoonkun Lee\Desktop\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.exe
+C:\Users\Yoonkun Lee\Desktop\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.pdb
