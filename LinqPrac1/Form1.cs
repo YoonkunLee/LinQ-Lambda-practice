@@ -62,8 +62,8 @@ namespace LinqPrac1
         {
             //3. Get customers' last name in alphabetical order
 
-            var selectedCustomer = new List<Customer>();
-            selectedCustomer = customers.OrderBy(m => m.LastName).ToList();
+            var selectedCustomer = new List<String>();
+            selectedCustomer = customers.OrderBy(m => m.LastName).Select(m => m.LastName).ToList();
             
             //foreach (var element in customers.OrderBy(x => x.LastName))
             //{
@@ -90,7 +90,7 @@ namespace LinqPrac1
         private void button5_Click(object sender, EventArgs e)
         {
             //5. Get number of customers who was born between Jan-Apr
-            int selectedCustomer = customers.Where(m => m.DOB.Month <= 4 && m.DOB.Month >= 1).ToArray().Length;
+            int selectedCustomer = customers.Where(m => m.DOB.Month <= 4 && m.DOB.Month >= 1).Count();
 
             //foreach (var element in customers.Where(m => m.DOB.Month <= 4 && m.DOB.Month >= 1))
             //{

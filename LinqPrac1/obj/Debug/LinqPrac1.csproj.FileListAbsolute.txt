@@ -18,3 +18,13 @@ C:\Users\Yoonkun Lee\Desktop\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.csproj.Gene
 C:\Users\Yoonkun Lee\Desktop\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.csproj.CoreCompileInputs.cache
 C:\Users\Yoonkun Lee\Desktop\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.exe
 C:\Users\Yoonkun Lee\Desktop\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.pdb
+C:\Users\Yoonkun Lee\Desktop\projects\LinqPrac1\LinqPrac1\bin\Debug\LinqPrac1.exe.config
+C:\Users\Yoonkun Lee\Desktop\projects\LinqPrac1\LinqPrac1\bin\Debug\LinqPrac1.exe
+C:\Users\Yoonkun Lee\Desktop\projects\LinqPrac1\LinqPrac1\bin\Debug\LinqPrac1.pdb
+C:\Users\Yoonkun Lee\Desktop\projects\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.csprojAssemblyReference.cache
+C:\Users\Yoonkun Lee\Desktop\projects\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.Form1.resources
+C:\Users\Yoonkun Lee\Desktop\projects\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.Properties.Resources.resources
+C:\Users\Yoonkun Lee\Desktop\projects\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.csproj.GenerateResource.cache
+C:\Users\Yoonkun Lee\Desktop\projects\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.csproj.CoreCompileInputs.cache
+C:\Users\Yoonkun Lee\Desktop\projects\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.exe
+C:\Users\Yoonkun Lee\Desktop\projects\LinqPrac1\LinqPrac1\obj\Debug\LinqPrac1.pdb
